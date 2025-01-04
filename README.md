@@ -13,7 +13,10 @@ Below, I give some examples of plots you can create with this repository.
 ## Runs
 
 Here we found that among Harry Kane's runs, where he received a cross at the end of them, most of them were very narrowly centered around the penalty spot.
+
 ![alt text](https://github.com/PaulSchlossmacher/soccer_analytics/blob/main/plots/Cross_receiver_Kane.png)
+
+However, you can also alter the function we wrote, to create the same plot for any player and for a multitude of different types of runs.
 
 ## Free-kicks
 
@@ -25,6 +28,6 @@ Notice the free-kick that was played short, were in the plot Bukayo Saka seems t
 We calculated the PPDA by England for each game:
 ![alt text](https://github.com/PaulSchlossmacher/soccer_analytics/blob/main/plots/PPDA_England_by_game.png)
 
-And we also analysed in which areas England won the ball back most frequently:
+And we also analysed, in which areas England won the ball back most frequently:
 
 ![alt text](https://github.com/PaulSchlossmacher/soccer_analytics/blob/main/plots/recov_by_third_england.png)
